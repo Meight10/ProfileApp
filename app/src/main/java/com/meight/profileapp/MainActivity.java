@@ -76,9 +76,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-
-
-
-
     private Button shareButton;
+
 }
